@@ -1,0 +1,2 @@
+ExpiresActive On
+ExpiresByType image/png "access plus 4 hours"
